@@ -1,4 +1,4 @@
-![Shortster](https://github.com/Marceugeni/Shortster/blob/main/shortster.JPG)
+![Shortster](https://github.com/Marceugeni/Shortster/blob/main/shortster.jpg)
 
 
 ## Shortster documentation
