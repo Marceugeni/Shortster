@@ -1,4 +1,4 @@
-![alt text]("Logo Title Text 1")
+![Shortster](https://github.com/Marceugeni/Shortster/blob/main/shortster.JPG)
 
 
 ## Shortster documentation
