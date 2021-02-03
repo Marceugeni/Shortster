@@ -44,7 +44,7 @@ As you can see, Shortster is a very cool web-App for shortening Url's with added
 
 #### Development process
 
-First step is to decide which tecnoligies I'll use to build this app. As my main language is Javascript my decision goes to NodeJS, MongoDB and ExpressJS stack. Setting up a NodeJS linked to MongoDB is very easy to develop, very easy to deploy and very fast for the end user, as the technologies are very well optimized. 
+First step is to decide which tecnologies I'll use to build this app. As my main language is Javascript my decision goes to NodeJS, MongoDB and ExpressJS stack. Setting up a NodeJS linked to MongoDB is very easy to develop, very easy to deploy and very fast for the end user, as the technologies are very well optimized. 
 
 Then I've used a little JS library called ShortID for generating the short Url's. 
 
